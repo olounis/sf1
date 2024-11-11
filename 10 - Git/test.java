@@ -5,7 +5,7 @@ public class test {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("bonjour monde!");
+        System.out.println("bonjour monde");
 
         sc.close();
     }
